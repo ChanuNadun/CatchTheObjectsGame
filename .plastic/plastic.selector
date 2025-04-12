@@ -1,0 +1,4 @@
+repository "CatchTheObjectsGame/CatchTheObjectsGame@18968267403225@cloud"
+  path "/"
+    br "/main"
+    co "/main"
